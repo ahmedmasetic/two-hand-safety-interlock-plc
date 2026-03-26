@@ -7,7 +7,9 @@ A limit switch triggers the fault state, disabling all inputs to prevent operati
 
 This type of control logic is commonly used in industrial machinery to ensure operator safety.
 
+<h2>Wiring diagram:</h2>
 <img width="939" height="567" alt="two-hand-interlock-schema" src="https://github.com/user-attachments/assets/e565f409-2416-4f57-9d25-6bb3a7836cf0" />
 
+<h2>Demo video:</h2>
 https://github.com/user-attachments/assets/7e3a7e17-94ba-4797-bcc9-6bde31e4a5db
 
