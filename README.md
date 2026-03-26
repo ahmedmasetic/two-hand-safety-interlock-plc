@@ -6,3 +6,6 @@ The system requires two push buttons to be pressed simultaneously to activate a 
 A limit switch triggers the fault state, disabling all inputs to prevent operation. The system can be reset to standby mode using a programmable button on the PLC.
 
 This type of control logic is commonly used in industrial machinery to ensure operator safety.
+
+<img width="939" height="567" alt="two-hand-interlock-schema" src="https://github.com/user-attachments/assets/e565f409-2416-4f57-9d25-6bb3a7836cf0" />
+
